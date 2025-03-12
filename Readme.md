@@ -16,7 +16,10 @@
 ## ER-диаграмма
 ![ER](./docs/img/er.svg)
 
-## User-flow для 
+## User-flow
+### Открытие клетки
 ![User-Flow-Open-Tile](./docs/img/user-flow-open-tile.svg)
+### Перемещение мины
 ![User-Flow-Move-Mine](./docs/img/user-flow-move-mine.svg)
+### Расширение безопасной зоны
 ![User-Flow-Exp-Zone](./docs/img/user-flow-exp-zone.svg)
