@@ -17,3 +17,5 @@
 
 ## User-flow для 
 ![User-Flow-Open-Tile](./docs/img/user-flow-open-tile.svg)
+![User-Flow-Move-Mine](./docs/img/user-flow-move-mine.svg)
+![User-Flow-Exp-Zone](./docs/img/user-flow-exp-zone.svg)
