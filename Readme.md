@@ -14,6 +14,7 @@
 ![Use-Case](./docs/img/use-cases.svg)
 
 ## ER-диаграмма
+![ER](./docs/img/er.svg)
 
 ## User-flow для 
 ![User-Flow-Open-Tile](./docs/img/user-flow-open-tile.svg)
