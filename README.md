@@ -21,3 +21,12 @@
 ![User-Flow-Open-Tile](docs/img/user-flow-open-tile.svg)
 ### Перемещение мины
 ![User-Flow-Move-Mine](docs/img/user-flow-move-mine.svg)
+
+## Стек приложения
+Desktop приложение под Linux на языке Java.
+
+## Разбиение на компоненты
+![Component-Division](docs/img/comp-division.svg)
+
+## UML диаграммы компонента доступа к данным и компонента с бизнес-логикой
+![UMLs](docs/img/uml.svg)
